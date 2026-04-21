@@ -1,0 +1,16 @@
+# Backend - Maven
+task-composite-backend/target/
+task-composite-backend/.mvn/
+task-composite-backend/*.jar
+task-composite-backend/*.class
+
+# Frontend - Node
+task-composite-frontend/node_modules/
+task-composite-frontend/dist/
+task-composite-frontend/.env
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.DS_Store
